@@ -13,6 +13,6 @@ This repository contains the hardware design, fabrication files, and signal mani
 ## 🗂️ Repository Structure
 
 *   **`/OpAMP`**: Contains the complete KiCad project files (`.kicad_pcb`, `.kicad_sch`, `.kicad_pro`) for the 2-layer board.
-    *   **`/gerber - OpAMP`**: Complete fabrication packet, including copper layers (`_Cu.gbr`), masks (`_Mask.gbr`), silkscreen, and drill files (`.drl`) ready for manufacturing[cite: 7].
+    *   **`/gerber - OpAMP`**: Complete fabrication packet, including copper layers (`_Cu.gbr`), masks (`_Mask.gbr`), silkscreen, and drill files (`.drl`) ready for manufacturing.
     *   **`/OpAMP LTspice`**: Contains the theoretical circuit simulation files (`Draft3.asc`) and transient analysis data.
-*   **`/Test 1 (Signal Manipulation)`**: Contains the low-pass filter logic and signal amplifier testing parameters[cite: 3].
+*   **`/Test 1 (Signal Manipulation)`**: Contains the low-pass filter logic and signal amplifier testing parameters.
